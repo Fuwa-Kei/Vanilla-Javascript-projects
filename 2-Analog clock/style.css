@@ -44,7 +44,7 @@ html {
     background: rgb(255, 183, 0);
     position: absolute;
     top: 50%;
-    border-radius: 5px;;
+    border-radius: 5px;
     transform-origin: 100%;
     transform: rotate(90deg);
     transition: all (0.5s);
